@@ -1,1 +1,1 @@
-# diffprosum.java
+# diffrence of product and sum.java
